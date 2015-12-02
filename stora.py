@@ -8,3 +8,5 @@ with open('SAM02011.csv') as csvfile:
   for row in thereader:
     print(len(row))
     print(row)
+
+Hæ
